@@ -1,0 +1,2 @@
+# Serveless_application
+ Notre objectif est de créer une application sans serveur avec Amazon API Gateway, AWS Lambda et DynamoDB. Nous allons créer deux fonctions lambda. À partir de là, une fonction écrira des données dans la table DynamoDB et l'autre fonction lira des données à partir de la table DynamoDB. De plus, les deux fonctions seront invoquées par les appels API Gateway. Enfin, nous déploierons cette application dans le cloud AWS à l'aide de Terraform.
